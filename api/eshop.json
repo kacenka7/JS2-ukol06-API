@@ -1,0 +1,63 @@
+[
+    {
+        "id":0,
+        "name": "Šrabadlo pro kočky",
+        "manufacturer": "Natural Paradise",
+        "price": "2650 Kč",
+        "color": "Krémová",
+        "description": "Středně velké škrabadlo pro kočky, s několika úrovněmi, silné kmeny omotané sisalem, hezký domeček ze dřeva, 2 měkké pelíšky a míčky na hraní, odnímatelné polštáře.",
+        "img": "https://media.zooplus.com/bilder/8/800/239396_pla_np_kb_magnolia_fg_1011_8.jpg"
+    },
+
+    {
+        "id":1,
+        "name": "Udice pro kočky",
+        "manufacturer": "Flausch",
+        "price": "62 Kč",
+        "color": "Šedá",
+        "description": "Stabilní udice pro kočky na hraní a lovení, z přírodních materiálů, příjemný úchop, robustní dřevěná tyčka, 3 huňaté plstěné kuličky, povzbuzující třásně z vlněných vláken, celková délka cca 100 cm.",
+        "img": "https://media.zooplus.com/bilder/3/800/121096_pla_katzenangel_flauschi_fg_4826_3.jpg"
+    },
+
+    {
+        "id":2,
+        "name": "Myšky pro kočky",
+        "manufacturer": "Karlie",
+        "price": "98 Kč",
+        "color": "Přírodní",
+        "description": "3 myši na hraní pro kočky, z přírodních mořských řas, tvar podobný kořisti, se skutečným peřím v různých barvách, vhodné i do domácností s několika kočkami, velikost cca D 13 × Š 2,5 × V 2,5 cm.",
+        "img": "https://media.zooplus.com/bilder/7/800/307997_karlie_katzenspielzeug_3mause_seegrasnatur_hs_02_7.jpg"
+    }, 
+
+    {
+        "id":3,
+        "name": "Keramická miska ergonomická",
+        "manufacturer": "Trixie",
+        "price": "159 Kč",
+        "color": "Bílá",
+        "description": "Elegantní keramická miska pro kočky, kulatý stojan, ergonomicky nakloněný tvar pro snadnější přijímání potravy, hladký materiál, hygienická a snadno se čistí, s roztomilým vzorem tlapek.",
+        "img": "https://media.zooplus.com/bilder/4/800/98398_pla_trixie_keramiknapf_mit_fur_katze_hs_04_4.jpg"
+    },
+
+    
+    {
+        "id": 4,
+        "name": "Plyšová myška s Catnipem",
+        "manufacturer": "Trixie",
+        "price": "39 Kč",
+        "color": "Šedá",
+        "description": "Roztomilá šedá myška na hraní vyrobená z plyše, s catnipem uvnitř.",
+        "img": "https://media.zooplus.com/bilder/2/800/26383_PLA_Trixie_Plueschmaus_mit_Catnip_Katzenspielzeug_7_cm_2.jpg"
+    },
+
+    {
+        "id": 5,
+        "name": "Houpací síť Dahlia",
+        "manufacturer": "Natural Paradise",
+        "price": "412 Kč",
+        "color": "Krémová",
+        "description": "Dřevěná houpací síť pro kočky, pro snadnou montáž na stěnu, s odnímatelným, pratelným polštářem, z přírodního pravého dřeva, pro bezpečné, vyvýšené místo na ležení, rozměry: D 58,5 × Š 28 × V 15,5 cm.",
+        "img": "https://media.zooplus.com/bilder/8/800/373200_np_haengematte_dahlia_fg_6030_8.jpg"
+    }
+
+]
